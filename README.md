@@ -10,6 +10,6 @@ This repository contains code for Feed Forward Neural Network with 1 hidden laye
 
 * The same implementation was then used on CIFAR-10 dataset to distinguish between two classes(cats and deers)
 
-* The existing Neural Network was further improved by 
+* The existing Neural Network was further improved by:
   * Implementing regularization 
   * Adding an additional hidden layer
